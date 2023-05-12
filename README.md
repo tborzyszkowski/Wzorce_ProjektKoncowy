@@ -1,4 +1,4 @@
-# Zadanie: Regulowany rynek
+# Zadanie: ?????
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
