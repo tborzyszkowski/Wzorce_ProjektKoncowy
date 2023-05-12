@@ -1,4 +1,4 @@
-# Zadanie: ?????
+# Zadanie: Projekt końcowy
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
@@ -12,3 +12,17 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 
 ### Napisz program, który ...
 
+### Spełniający warunki 
+ 
+W ramach projektu końcowego należy przedstawić projekt, w którym wykorzystano w nietrywialny sposób po dwa wzorce 
+projektowe z następujących grup:
+* kreacyjne
+* strukturalne
+* operacyjne.
+
+Łącznie trzeba zaprezentować sześć wzorców, które współpracują w jednym projekcie.
+
+Oceniane będą:
+* trafność doboru wzorców
+* jakość implementacji
+* nietrywialność informatyczna wybranego problemu rozwiązywanego przez projekt.
